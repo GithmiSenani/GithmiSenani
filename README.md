@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=githmisenani" alt="githmisenani" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJs Project**
+- I’m currently working on **ReactJs Project**
 
-- 🌱 I’m currently learning **ReactJS, the MERN stack, and Selenium to enhance my skills in building full-stack applications and automating web testing.**
+- I’m currently learning **ReactJS, the MERN stack, and Selenium to enhance my skills in building full-stack applications and automating web testing.**
 
-- 👯 I’m looking to collaborate on **open source projects.**
+- I’m looking to collaborate on **open source projects.**
 
-- 🤝 I’m looking for help with **open source projects.**
+- I’m looking for help with **open source projects.**
 
-- 📝 I regularly upload my achievements on [https://www.linkedin.com/in/githmi-senani-2814231b2/](https://www.linkedin.com/in/githmi-senani-2814231b2/)
+-  I regularly upload my achievements on [https://www.linkedin.com/in/githmi-senani-2814231b2/](https://www.linkedin.com/in/githmi-senani-2814231b2/)
 
-- 📫 How to reach me **githmisenani2000@gmail.com**
+- How to reach me **githmisenani2000@gmail.com**
 
-- ⚡ Fun fact : **I’m basically a multitasking magician—balancing code, events, and a bit of chaos, all fueled by caffeine and spontaneous brilliance! 😆🔥"**
+-  Fun fact : **I’m basically a multitasking magician—balancing code, events, and a bit of chaos, all fueled by caffeine and spontaneous brilliance! 😆🔥"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
